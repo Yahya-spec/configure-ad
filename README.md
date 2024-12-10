@@ -17,7 +17,7 @@ In this home lab, I’ll walk through creating a storage container within a reso
 
 1. **Create a Resource Group in Azure**  
    Start by creating a new resource group.  
-![lq](https://github.com/user-attachments/assets/fe8148f0-7a8e-4ee4-9e5d-c8ffc89b54a9)
+![1](https://github.com/user-attachments/assets/2f3f8399-71a6-43bd-8d5e-b8b535ffb1b0)
 
 2. **Create a Storage Container in the Resource Group**  
    Once the resource group is set, create a storage container within it.  

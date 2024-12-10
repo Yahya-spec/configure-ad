@@ -21,16 +21,15 @@ In this home lab, I’ll walk through creating a storage container within a reso
 
 2. **Create a Storage Container in the Resource Group**  
    Once the resource group is set, create a storage container within it.  
-![jk](https://github.com/user-attachments/assets/fa94a566-5669-4418-ac8f-9665214b9d00)
+![2](https://github.com/user-attachments/assets/4a4da01a-d7bb-4d01-b044-a18fbfeac8b2)
 
 3. **Upload a Plain Text File**  
    Create a simple text file on your desktop and upload it to the storage container.  
-![lmk](https://github.com/user-attachments/assets/8b576a9d-d05a-4df9-936a-7d9ec30e3550)
+![3](https://github.com/user-attachments/assets/0f841991-f326-4a58-8591-79c3db91a40c)
 
 4. **Edit and Download the File in Azure**  
    Edit the file within the Azure portal, and download it to confirm the changes.  
-![lmd](https://github.com/user-attachments/assets/58c3c2bc-f99d-48f4-a52d-1273dc546957)
-
+![4](https://github.com/user-attachments/assets/f5b47f5e-fb06-493c-9c67-cf2a7db26b51)
 
 ## Key Takeaways
 
